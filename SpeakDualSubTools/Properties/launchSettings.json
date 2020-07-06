@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpeakDualSubTools": {
+      "commandName": "Project",
+      "commandLineArgs": "-r \"C:\\Users\\DiepNV4\\Downloads\\PopcornTime\\Murder On The Orient Express (2017) [1080p] [YTS.AG]\\en.srt\" \"C:\\Users\\DiepNV4\\Downloads\\PopcornTime\\Murder On The Orient Express (2017) [1080p] [YTS.AG]\\vi.srt\" -o \"C:\\Users\\DiepNV4\\Downloads\\PopcornTime\\Murder On The Orient Express (2017) [1080p] [YTS.AG]\\test.html\""
+    }
+  }
+}
